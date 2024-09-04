@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 100vh;
+    box-sizing: border-box;
+    background-color: rgb(198, 56, 56); /* Change background to white */
+  }
+  .blink {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2d38be;
+    transition: 0.5s;
+}
+  
+  .w3-content {
+    max-width: 1000px; /* Set a max-width for the content */
+    margin: 0 auto; /* Center the content */
+    padding: 16px;
+    background-color: rgb(154, 24, 24); /* Ensure the content background is also white */
+    box-sizing: border-box;
+  }
+  .p {
+    background-image: url('ece_im.jpg');
+  }
+  .w3-card-4 img {
+    width: 100%;
+    height: auto;
+  }
+  
+  footer {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 32px;
+    background-color: rgb(172, 18, 18);
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: auto;
+    text-align: center;
+    box-sizing: border-box;
+    padding-bottom: 20%;
+    display: block;       /* Make the button a block element */
+    margin: 0 auto;       /* Center the button horizontally */
+    position:center;
+}
+
+  
